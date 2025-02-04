@@ -8,4 +8,4 @@ xgboost
 Flask
 ipykernel
 notebook
- -e .
+#-e .
